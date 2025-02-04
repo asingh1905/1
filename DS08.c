@@ -1,3 +1,4 @@
+//stack array
 #include <stdio.h>
 #include <stdlib.h>
 

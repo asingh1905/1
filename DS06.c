@@ -1,3 +1,4 @@
+//single linked
 #include <stdio.h>
 #include <stdlib.h>
 

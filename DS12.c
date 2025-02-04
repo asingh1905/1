@@ -1,3 +1,4 @@
+//circ queue linked
 #include <stdio.h>
 #include <stdlib.h>
 

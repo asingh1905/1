@@ -1,3 +1,4 @@
+//linear and binary search
 #include <stdio.h>
 
 // Function for Linear Search

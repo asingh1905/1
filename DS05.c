@@ -1,3 +1,4 @@
+//insertion and merge
 #include <stdio.h>
 
 // Function for Insertion Sort
